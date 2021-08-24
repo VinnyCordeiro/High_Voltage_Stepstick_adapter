@@ -12,4 +12,5 @@ When soldering the socket headers, remove the one that is indicated on the PCB's
 
 ### To-Do:
 
-Add BOM.
+* Add BOM
+* Generate Gerber files
