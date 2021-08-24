@@ -9,3 +9,7 @@ This adapter can be used only on boards where the stepsticks are place on "portr
 ### Instructions:
 
 When soldering the socket headers, remove the one that is indicated on the PCB's silkscreen. FAILING TO DO THAT WILL DESTROY YOUR BOARD, YOU HAVE BEEN WARNED.
+
+### To-Do:
+
+Add BOM.
