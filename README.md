@@ -6,6 +6,8 @@ This board is a simple adapter for usage of high voltage ( > 24V ) on 3D printer
 
 This adapter can be used only on boards where the stepsticks are place on "portrait" mode, like Bigtreetech Octopus and Fysetc Spider. Stepsticks on "landscape" mode, like the ones on SKR 2.0, are not supported.
 
+DISCLAIMER: I do not claim being the author of the original idea; that goes to Maze, on the [Mercury One project Discord server](https://discord.gg/t4pf7vYe). I took his idea and made my own spin: the only thing I ever saw from his board was a render showing the components' placement.
+
 ### Instructions:
 
 When soldering the socket headers, remove the one that is indicated on the PCB's silkscreen. FAILING TO DO THAT WILL DESTROY YOUR BOARD, YOU HAVE BEEN WARNED.
