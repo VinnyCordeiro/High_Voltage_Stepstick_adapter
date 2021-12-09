@@ -12,7 +12,10 @@ DISCLAIMER: I do not claim being the author of the original idea; that goes to M
 
 When soldering the socket headers, remove the one that is indicated on the PCB's silkscreen. FAILING TO DO THAT WILL DESTROY YOUR BOARD, YOU HAVE BEEN WARNED.
 
+### Updates
+
+December 09, 2021: added Gerber files, added a Schottky diode between VDD and VMOT lines for safety.
+
 ### To-Do:
 
 * Add BOM
-* Generate Gerber files
